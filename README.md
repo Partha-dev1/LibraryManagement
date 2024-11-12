@@ -1,4 +1,5 @@
-Library Management System
+#Library Management System
+
 This is a simple Library Management System designed to manage the books in a library, keep track of borrowed books, and maintain user records. This project is built using Python and provides essential functionalities to efficiently manage a library's inventory and users.
 
 Table of Contents
